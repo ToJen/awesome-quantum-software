@@ -230,6 +230,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **Python & JavaScript**
 - [Quantum Music Composer for IBM Q](https://github.com/JavaFXpert/quantum-toy-piano-ibmq) - Compose and perform quantum music with IBM Q.
 - [Quantum Music Composer for Rigetti](https://github.com/JavaFXpert/quantum-toy-piano) - Compose and perform quantum music with Rigetti's Forest.
+- [Quantum Connect Four](https://github.com/ToJen/quantum-connect-four) - Play the popular 2-player connection game online with superposition. 
 
 **JavaScript**
 - [Quantum Game with Photons](https://github.com/stared/quantum-game) - Puzzle game in browser, with polarization, superposition, and measurement.
